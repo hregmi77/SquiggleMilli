@@ -1,6 +1,5 @@
 ## SquiggleMilli: Approximating SAR Imaging on Mobile Millimeter-Wave Devices
-
-Implementation details and Code will be released soon!
+This repository contains limited code and data from the journal SquiggleMilli. In SquiggleMilli, we approximate SAR imaging in hand-held devices using a commerical-off-the-self (COTS) device and improve resolution using conditional Generative Adversarial Networks. 
 
 ## Citation
 ```
