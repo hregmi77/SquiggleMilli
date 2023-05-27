@@ -1,7 +1,8 @@
 ## SquiggleMilli: Approximating SAR Imaging on Mobile Millimeter-Wave Devices
 This repository contains code and data from the journal SquiggleMilli. This paper proposes SquiggleMilli, a system that approximates traditional Synthetic Aperture Radar (SAR) imaging on mobile millimeter-wave (mmWave) devices. 
 
-![squiggle_idea](https://github.com/hregmi77/SquiggleMilli/assets/85701013/eead9eb0-71ef-477a-a53a-860c537ab988)
+![squiggle_idea](https://github.com/hregmi77/SquiggleMilli/assets/85701013/560728eb-d760-4dff-9479-244ef1e1bb9c)
+
 
 ### Dataset and Code (v1.0)
 Download the folder from the link below. The folder inside contains a separate directory for millimeter-wave-related code in MATLAB and deep learning implementation in Python. Each directory includes ```Instructions.pdf```describing how to visualize data and run the code.
