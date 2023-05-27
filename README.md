@@ -1,10 +1,10 @@
 ## SquiggleMilli: Approximating SAR Imaging on Mobile Millimeter-Wave Devices
-This repository contains limited code and data from the journal SquiggleMilli. In SquiggleMilli, we approximate SAR imaging in hand-held devices using a commerical-off-the-self (COTS) device and improve resolution using conditional Generative Adversarial Networks. 
+This repository contains limited code and data from the journal SquiggleMilli. In SquiggleMilli, we approximate SAR imaging in hand-held devices using a commercial-off-the-self (COTS) device and improve resolution using conditional Generative Adversarial Networks. 
 
 ![squiggle_idea](https://github.com/hregmi77/SquiggleMilli/assets/85701013/eead9eb0-71ef-477a-a53a-860c537ab988)
 
 ### Dataset and Code
-Download the folder from the link below. The folder inside contains separate direcotry for millimeter-wave related code in MATLAB and deep learning implementation in python. Each directory includes ```Instructions.pdf``` that describes how to use visualize data and run the code.
+Download the folder from the link below. The folder inside contains a separate directory for millimeter-wave-related code in MATLAB and deep learning implementation in Python. Each directory includes ```Instructions.pdf```describing how to visualize data and run the code.
 Link: https://www.dropbox.com/sh/vwhbyz860a9gxfw/AABZ8EoE6G8P28Es5i-YLjrUa?dl=0
 
 ## Citation
