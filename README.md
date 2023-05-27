@@ -4,6 +4,7 @@ This repository contains limited code and data from the journal SquiggleMilli. I
 ![squiggle_idea](https://github.com/hregmi77/SquiggleMilli/assets/85701013/eead9eb0-71ef-477a-a53a-860c537ab988)
 
 ### Dataset and Code
+Download the folder from the link below. The folder inside contains separate direcotry for millimeter-wave related code in MATLAB and deep learning implementation in python. Each directory includes ```Instructions.pdf``` that describes how to use visualize data and run the code.
 Link: https://www.dropbox.com/sh/vwhbyz860a9gxfw/AABZ8EoE6G8P28Es5i-YLjrUa?dl=0
 
 ## Citation
